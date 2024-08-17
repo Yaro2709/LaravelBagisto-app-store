@@ -2528,16 +2528,16 @@
         },
         {
             "name": "konekt/concord",
-            "version": "1.14.0",
+            "version": "1.15.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/artkonekt/concord.git",
-                "reference": "bf725c9299b08b69766000044d3be9f15f198065"
+                "reference": "128b39d0d2baa5e7a869a5736652d0865db76318"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/artkonekt/concord/zipball/bf725c9299b08b69766000044d3be9f15f198065",
-                "reference": "bf725c9299b08b69766000044d3be9f15f198065",
+                "url": "https://api.github.com/repos/artkonekt/concord/zipball/128b39d0d2baa5e7a869a5736652d0865db76318",
+                "reference": "128b39d0d2baa5e7a869a5736652d0865db76318",
                 "shasum": ""
             },
             "require": {
@@ -2584,9 +2584,9 @@
             "description": "Concord is a Laravel Extension for building modular Laravel Applications",
             "support": {
                 "issues": "https://github.com/artkonekt/concord",
-                "source": "https://github.com/artkonekt/concord/tree/1.14.0"
+                "source": "https://github.com/artkonekt/concord/tree/1.15.0"
             },
-            "time": "2024-01-08T15:58:03+00:00"
+            "time": "2024-03-15T10:34:36+00:00"
         },
         {
             "name": "konekt/enum",
