@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "99fa5ea9f239da328b931d870d54102c",
+    "content-hash": "09d138f8cb93796f2b87ddc9d35282f2",
     "packages": [
         {
             "name": "astrotomic/laravel-translatable",
-            "version": "v11.14.1",
+            "version": "v11.15.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Astrotomic/laravel-translatable.git",
-                "reference": "979d18d1d42e4ef546b57220086f2fb727fb26e5"
+                "reference": "0d065da7fb06b4b957afce79fdda159764561345"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Astrotomic/laravel-translatable/zipball/979d18d1d42e4ef546b57220086f2fb727fb26e5",
-                "reference": "979d18d1d42e4ef546b57220086f2fb727fb26e5",
+                "url": "https://api.github.com/repos/Astrotomic/laravel-translatable/zipball/0d065da7fb06b4b957afce79fdda159764561345",
+                "reference": "0d065da7fb06b4b957afce79fdda159764561345",
                 "shasum": ""
             },
             "require": {
@@ -97,7 +97,7 @@
                     "type": "issuehunt"
                 }
             ],
-            "time": "2024-07-10T15:50:31+00:00"
+            "time": "2024-08-28T09:20:26+00:00"
         },
         {
             "name": "barryvdh/laravel-dompdf",
