@@ -7772,16 +7772,16 @@
         },
         {
             "name": "spatie/laravel-responsecache",
-            "version": "7.6.0",
+            "version": "7.6.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-responsecache.git",
-                "reference": "ccaf6fd941e86ea08197b787864bec4a01f658e0"
+                "reference": "2604409809f575511a4cc9333482a52a9e912358"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-responsecache/zipball/ccaf6fd941e86ea08197b787864bec4a01f658e0",
-                "reference": "ccaf6fd941e86ea08197b787864bec4a01f658e0",
+                "url": "https://api.github.com/repos/spatie/laravel-responsecache/zipball/2604409809f575511a4cc9333482a52a9e912358",
+                "reference": "2604409809f575511a4cc9333482a52a9e912358",
                 "shasum": ""
             },
             "require": {
@@ -7803,12 +7803,12 @@
             "type": "library",
             "extra": {
                 "laravel": {
-                    "providers": [
-                        "Spatie\\ResponseCache\\ResponseCacheServiceProvider"
-                    ],
                     "aliases": {
                         "ResponseCache": "Spatie\\ResponseCache\\Facades\\ResponseCache"
-                    }
+                    },
+                    "providers": [
+                        "Spatie\\ResponseCache\\ResponseCacheServiceProvider"
+                    ]
                 }
             },
             "autoload": {
@@ -7839,7 +7839,7 @@
                 "spatie"
             ],
             "support": {
-                "source": "https://github.com/spatie/laravel-responsecache/tree/7.6.0"
+                "source": "https://github.com/spatie/laravel-responsecache/tree/7.6.2"
             },
             "funding": [
                 {
@@ -7851,7 +7851,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-08-05T09:57:46+00:00"
+            "time": "2024-12-09T15:33:20+00:00"
         },
         {
             "name": "spatie/laravel-sitemap",
@@ -9350,12 +9350,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
+                },
                 "branch-alias": {
                     "dev-main": "1.28-dev"
-                },
-                "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
                 }
             },
             "autoload": {
@@ -9736,12 +9736,12 @@
             },
             "type": "library",
             "extra": {
+                "thanks": {
+                    "url": "https://github.com/symfony/polyfill",
+                    "name": "symfony/polyfill"
+                },
                 "branch-alias": {
                     "dev-main": "1.28-dev"
-                },
-                "thanks": {
-                    "name": "symfony/polyfill",
-                    "url": "https://github.com/symfony/polyfill"
                 }
             },
             "autoload": {
