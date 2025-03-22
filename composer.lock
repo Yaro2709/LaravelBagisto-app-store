@@ -7705,16 +7705,16 @@
         },
         {
             "name": "shetabit/visitor",
-            "version": "v4.4.0",
+            "version": "v4.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/shetabit/visitor.git",
-                "reference": "2dbd6eae45542dda66e34d9c93d5d109229b1871"
+                "reference": "4ec03a2dbb1ca764b88f4d794c0a552ca6b67e96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shetabit/visitor/zipball/2dbd6eae45542dda66e34d9c93d5d109229b1871",
-                "reference": "2dbd6eae45542dda66e34d9c93d5d109229b1871",
+                "url": "https://api.github.com/repos/shetabit/visitor/zipball/4ec03a2dbb1ca764b88f4d794c0a552ca6b67e96",
+                "reference": "4ec03a2dbb1ca764b88f4d794c0a552ca6b67e96",
                 "shasum": ""
             },
             "require": {
@@ -7771,9 +7771,9 @@
             ],
             "support": {
                 "issues": "https://github.com/shetabit/visitor/issues",
-                "source": "https://github.com/shetabit/visitor/tree/v4.4.0"
+                "source": "https://github.com/shetabit/visitor/tree/v4.4.1"
             },
-            "time": "2025-03-05T19:47:03+00:00"
+            "time": "2025-03-18T14:58:13+00:00"
         },
         {
             "name": "spatie/browsershot",
