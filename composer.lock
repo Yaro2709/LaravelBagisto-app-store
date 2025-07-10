@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "adab77b4972031ddee6dec91f7d30a8a",
+    "content-hash": "ccdc7fc8f9c7c11712c52544e9034968",
     "packages": [
         {
             "name": "astrotomic/laravel-translatable",
-            "version": "v11.16.0",
+            "version": "v11.16.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Astrotomic/laravel-translatable.git",
-                "reference": "dab1fc69479bcd4f3fe8c3fa305268564d3d5101"
+                "reference": "3edd5a3083b45948942af83903845954c3352652"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Astrotomic/laravel-translatable/zipball/dab1fc69479bcd4f3fe8c3fa305268564d3d5101",
-                "reference": "dab1fc69479bcd4f3fe8c3fa305268564d3d5101",
+                "url": "https://api.github.com/repos/Astrotomic/laravel-translatable/zipball/3edd5a3083b45948942af83903845954c3352652",
+                "reference": "3edd5a3083b45948942af83903845954c3352652",
                 "shasum": ""
             },
             "require": {
@@ -89,7 +89,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-03-26T09:18:35+00:00"
+            "time": "2025-07-09T14:05:02+00:00"
         },
         {
             "name": "barryvdh/laravel-dompdf",
